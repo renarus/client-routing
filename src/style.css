@@ -1,0 +1,23 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color:black;
+    font-size:20px;
+}
+.about,.contact,.jobs{
+    text-align: center;
+}
+.about h1{
+    color: chocolate;
+}
+.contact h1{
+    color: chocolate;  
+}
+.jobs h1{
+    color: chocolate;  
+}
